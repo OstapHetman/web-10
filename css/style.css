@@ -147,3 +147,28 @@ footer {
     background-color: #e8491d;
     text-align: center;
 }
+
+
+/*Sidebar*/
+
+aside#sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.dark {
+    padding: 15px;
+    background: #e8491d;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+/* Main-col */
+
+article#main-col {
+    float: left;
+    width: 65%;
+}
